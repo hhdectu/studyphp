@@ -13,8 +13,8 @@ Ten tai khoan:<input type="text" name="username" id="username"/></br>
 password:<input type="text" name="password" id="password"/></br>
 Tuy chon:
 
-<input type="checkbox" name="checkKhoaHoc[]" id=" checkKhoaHoc[]-1" valule="1"/>Hoc online</br>
-<input type="checkbox" name="checkKhoaHoc[]" id=" checkKhoaHoc[]-2" valule="2"/>Hoc online</br>
+<input type="checkbox" name="checkKhoaHoc[]" id=" checkKhoaHoc[]-1" value="1"/>Hoc online</br>
+<input type="checkbox" name="checkKhoaHoc[]" id=" checkKhoaHoc[]-2" value="2"/>Hoc online</br>
 Dang Ky:<input type="submit" name="dangky" id="dangky"/></br>
 
 </form>
